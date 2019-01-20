@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringMVCFormSubWebApp:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringMVCFormSubWebApp_war</output-path>
+    <root id="archive" name="SpringMVCFormSubWebApp_war.war">
+      <element id="artifact" artifact-name="SpringMVCFormSubWebApp:war exploded" />
+    </root>
+  </artifact>
+</component>
